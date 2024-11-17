@@ -1,0 +1,8 @@
+background
+coca_cola
+fanta
+mirinda
+pepsi
+red_bull
+sprite
+sting
