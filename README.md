@@ -3,15 +3,27 @@
 This repository contains a project demonstrating **trash classification** using the **NVIDIA Jetson Nano**. The main objective is to identify and classify discarded drink cans, to support efficient waste management and recycling initiatives.
 
 **List of drink cans**
-```
-Coca Cola
-Fanta
-Mirinda
-Pepsi
-Red Bull
-Sprite
-Sting
-```
+
+***1. Coca Cola***
+![Coca Cola](trash/train/coca_cola/20241117-030925.jpg)
+
+***2. Fanta***
+![Fanta](trash/train/fanta/20241117-032956.jpg)
+
+***3. Mirinda***
+![Mirinda](trash/train/mirinda/20241117-034358.jpg)
+
+***4. Pepsi***
+![Pepsi](trash/train/pepsi/20241117-034803.jpg)
+
+***5. Red Bull***
+![Red Bull](trash/train/red_bull/20241117-035924.jpg)
+
+***6. Sprite***
+![Sprite](trash/train/sprite/20241117-041304.jpg)
+
+***7. Sting***
+![Sting](trash/train/sting/20241117-043033.jpg)
 
 ---
 
